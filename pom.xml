@@ -29,7 +29,7 @@
                             <manifest>
                                 <addClasspath>true</addClasspath>
                                 <classpathPrefix>lib/</classpathPrefix>
-                                <mainClass>main.java.de.brainschweig.DateGen</mainClass>
+                                <mainClass>de.brainschweig.DateGen</mainClass>
                             </manifest>
                         </archive>
                     </configuration>
